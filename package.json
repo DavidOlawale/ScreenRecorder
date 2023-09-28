@@ -1,0 +1,23 @@
+{
+  "name": "screeen-recorder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidOlawale/ScreenRecorder.git"
+  },
+  "keywords": [
+    "screen",
+    "recorder"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidOlawale/ScreenRecorder/issues"
+  },
+  "homepage": "https://github.com/DavidOlawale/ScreenRecorder#readme"
+}

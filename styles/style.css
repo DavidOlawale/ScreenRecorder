@@ -1,0 +1,6 @@
+body{
+    min-width: 200px;
+    border-color: 2px solid red;
+    border-radius: 3px;
+    margin: 10px;
+}
